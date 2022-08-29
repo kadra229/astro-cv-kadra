@@ -1,0 +1,19 @@
+---
+label: en
+hide_body: true
+fields:
+- type: text
+  name: siteLanguage
+  label: siteLanguage
+- type: text
+  name: siteTitle
+  label: siteTitle
+- type: text
+  name: siteDescription
+  label: siteDescription
+- type: text
+  name: siteKeywords
+  label: siteKeywords
+- type: text
+  name: siteAuthor
+  label: siteAuthor
